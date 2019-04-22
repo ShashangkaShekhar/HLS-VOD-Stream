@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLS-VODStream", "HLS-VODStream\HLS-VODStream.csproj", "{1AA0B7BC-BC76-40F5-9CD8-7E5819872C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFMpegSharp", "FFMpegSharp\FFMpegSharp.csproj", "{CEF7E6A7-B885-4588-BC9B-1F6E77A39641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA0B7BC-BC76-40F5-9CD8-7E5819872C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA0B7BC-BC76-40F5-9CD8-7E5819872C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA0B7BC-BC76-40F5-9CD8-7E5819872C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA0B7BC-BC76-40F5-9CD8-7E5819872C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF7E6A7-B885-4588-BC9B-1F6E77A39641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF7E6A7-B885-4588-BC9B-1F6E77A39641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF7E6A7-B885-4588-BC9B-1F6E77A39641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF7E6A7-B885-4588-BC9B-1F6E77A39641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6321A3-8D9A-426C-A9E6-A23776620687}
+	EndGlobalSection
+EndGlobal

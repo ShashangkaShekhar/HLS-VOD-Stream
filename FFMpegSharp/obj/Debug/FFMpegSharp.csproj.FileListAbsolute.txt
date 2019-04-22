@@ -1,0 +1,12 @@
+D:\Article\HLS-VOD\HLS-VODStream\FFMpegSharp\bin\Debug\FFMpegSharp.dll
+D:\Article\HLS-VOD\HLS-VODStream\FFMpegSharp\bin\Debug\FFMpegSharp.pdb
+D:\Article\HLS-VOD\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.csproj.CoreCompileInputs.cache
+D:\Article\HLS-VOD\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.dll
+D:\Article\HLS-VOD\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.pdb
+D:\Article\HLS-VOD\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.csprojAssemblyReference.cache
+D:\Article\HLS-VOD\Publish\HLS-VODStream\FFMpegSharp\bin\Debug\FFMpegSharp.dll
+D:\Article\HLS-VOD\Publish\HLS-VODStream\FFMpegSharp\bin\Debug\FFMpegSharp.pdb
+D:\Article\HLS-VOD\Publish\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.csprojAssemblyReference.cache
+D:\Article\HLS-VOD\Publish\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.csproj.CoreCompileInputs.cache
+D:\Article\HLS-VOD\Publish\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.dll
+D:\Article\HLS-VOD\Publish\HLS-VODStream\FFMpegSharp\obj\Debug\FFMpegSharp.pdb
